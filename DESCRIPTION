@@ -13,4 +13,7 @@ Suggests:
 Encoding: UTF-8
 RoxygenNote: 7.1.2
 Imports:
-    shiny
+    data.table,
+    lubridate,
+    shiny,
+    yaml

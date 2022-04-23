@@ -1,0 +1,36 @@
+18.04.:
+  squat:
+    variation: lowbar
+    warmup:
+      35.5: 10
+      55: 10
+      65: 10
+    sets:
+      85: [12, 10, 10]
+    comment: homesquats == cardio :(
+
+19.04.:
+  Bench press:
+    Variation: default
+    Warmup:
+      20..50: [12,12,10,8]
+    Sets:
+      60: [8,8,8,7]
+  Latpulls:
+    Variation: underhand grip
+    Warmup:
+      40: 12
+    Sets:
+      50: 4*10
+  Dumbbell bench press:
+    Variation: incline
+    Warmup:
+      15: 12
+    Sets:
+      22.5: [12, 10, 9]
+  Superset:
+    Variation: [cable tricep pushdown, dumbbell curls]
+    sets:
+      25: 3*10
+      20: 12..5
+      22.5: [12, 12, 8]
